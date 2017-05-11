@@ -1,3 +1,8 @@
+#Author: Ghicheon Lee
+#Version:0.19
+#Date: 2017-5-12
+#License: GPL(GNU General Public License) version 3.
+
 import pdb
 import re
 import sys
